@@ -1,0 +1,18 @@
+.col-1 {
+    margin: 1px;
+}
+.col-4 {
+    border-radius: 2px;
+    background-color: rgb(187, 210, 218);
+    margin-left: 4px;
+}
+.container {
+    
+    position: relative;
+    top: 80px;
+}
+
+header {
+    height: 100px;
+    background-color: rgb(105, 110, 110);
+}
